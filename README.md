@@ -1,5 +1,9 @@
-# waikan-zazhi
-外刊杂志仓库 - 小嘟嘟网
+# 外刊杂志仓库
+更新各种外刊杂志，计划更新：
+《How It Works》
+《National Geographic Kids》
+《National Geographic Little Kids》
+
 
 ## 更新日志
 
