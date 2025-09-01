@@ -1,6 +1,6 @@
 # 外刊杂志仓库
 更新各种外刊杂志，计划更新：  
-《How It Works》  
+[《How It Works》](https://github.com/zhongyuanqi/waikan-zazhi/tree/main/How%20it%20works)  
 《National Geographic Kids》  
 《National Geographic Little Kids》  
 
