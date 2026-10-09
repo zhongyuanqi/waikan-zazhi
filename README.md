@@ -1,4 +1,4 @@
-# 外刊杂志仓库
+# 外刊杂志刊物仓库
 
 ## 已更新
 [《How It Works》](https://github.com/zhongyuanqi/waikan-zazhi/tree/main/How%20it%20works)  
