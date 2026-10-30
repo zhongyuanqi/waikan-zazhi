@@ -117,7 +117,6 @@ waikan-zazhi/
 │   ├── How It Works 2024
 │   ├── How It Works 2025
 │   └── 下载地址.md
-├── .github/workflows/      推送到 main 后自动部署站点
 └── README.md
 ```
 
