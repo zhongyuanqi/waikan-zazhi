@@ -8,47 +8,47 @@
 
 ![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-3-17171A?style=flat-square)
 ![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-17-17171A?style=flat-square)
-![PDF](https://img.shields.io/badge/%E5%B7%B2%E5%88%97%20PDF-130-17171A?style=flat-square)
+![HIW PDF](https://img.shields.io/badge/HIW%20PDF-130-17171A?style=flat-square)
 ![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.10.30-D9472F?style=flat-square)
 
-[在线浏览](https://zhongyuanqi.github.io/waikan-zazhi/) · [刊物总览](#刊物总览) · [使用说明](#使用说明) · [更新日志](#更新日志)
+[How It Works](#how-it-works) · [Science](#science) · [Bluey](#bluey) · [使用说明](#使用说明) · [更新日志](#更新日志)
 
 </div>
 
 ---
 
-## 刊物总览
+## 目录
 
-| # | 刊物 | 中文 | 类型 | 年份跨度 | 份数 | 体量 | 入口 |
-|:-:|:-----|:-----|:-----|:---------|:----:|:-----|:-----|
-| 01 | **How It Works** | 知识图解 | 科普 | 2022 — 2025 | 4 | 130 个 PDF · 9.69 GB | [详情](#01--how-it-works) |
-| 02 | **Science** | 科学 | 学术 | 2018 — 2026 | 9 | 9 个年度合集 | [详情](#02--science) |
-| 03 | **Bluey** | 布鲁伊 | 儿童 | 2023 — 2026 | 4 | 4 个年度合集 | [详情](#03--bluey) |
+| # | 刊物 | 中文 | 类型 | 年份跨度 | 份数 |
+|:-:|:-----|:-----|:-----|:---------|:----:|
+| 01 | [**How It Works**](#how-it-works) | 知识图解 | 科普 | 2022 — 2025 | 4 |
+| 02 | [**Science**](#science) | 科学 | 学术 | 2018 — 2026 | 9 |
+| 03 | [**Bluey**](#bluey) | 布鲁伊 | 儿童 | 2023 — 2026 | 4 |
 
-> 表格里的「份数」是年度合集的数量。How It Works 按年打包，单年最多 37 期；Science / Bluey 每个年份是一整包。
+共 3 种刊物、17 份年度合集。找法：先在这张表里认刊物，点刊物名直达它的年份表；年份表按**从新到旧**排列，第一行就是最新。
 
 ---
 
 ## 使用说明
 
 1. **先转存，再下载。** 打开分享链接后存到自己网盘，再从自己的网盘下载 —— 直接在分享页批量下载容易触发风控，链接也会更快失效。
-2. **提取码**写在每条资源后面，格式如 `百度 k7k4 · 城通 2727`。
-3. **链接失效**请在 [Issues](https://github.com/zhongyuanqi/waikan-zazhi/issues) 反馈，会尽快补链。
+2. **提取码**写在每行末尾，格式如 `百度 k7k4 · 城通 2727`。百度每一年不同，城通固定 `2727`，夸克不需要提取码。
+3. **链接失效**请到 [Issues](https://github.com/zhongyuanqi/waikan-zazhi/issues) 反馈，会尽快补链。
 
 ---
 
-## 01 · How It Works
+## How It Works
 
 英国 Immediate Media 出品的科普月刊，主打大幅剖面图与信息图，把科技、历史、人体、宇宙拆开讲透。除常规单期（Issue）外，还有大量主题专辑（Book of… / Understanding… 系列）。
 
-| 项目 | 内容 |
-|:-----|:-----|
-| 年份跨度 | 2022 — 2025 |
-| 文件总量 | 130 个 PDF · 9.69 GB |
-| 百度网盘 | [pan.baidu.com/s/1KnsJJ0tCPTf2sn5s6lFPgQ](https://pan.baidu.com/s/1KnsJJ0tCPTf2sn5s6lFPgQ?pwd=dwbk) · 提取码 `dwbk` |
-| 夸克网盘 | [pan.quark.cn/s/f6319d2212dd](https://pan.quark.cn/s/f6319d2212dd) |
+**2022 — 2025 · 4 个年份 · 130 个 PDF · 9.69 GB**
 
-按年份的文件清单（文件名 + 体积，逐年核对）：
+| 网盘 | 链接 | 提取码 |
+|:-----|:-----|:-------|
+| 百度网盘 | [pan.baidu.com/s/1KnsJJ0tCPTf2sn5s6lFPgQ](https://pan.baidu.com/s/1KnsJJ0tCPTf2sn5s6lFPgQ?pwd=dwbk) | `dwbk` |
+| 夸克网盘 | [pan.quark.cn/s/f6319d2212dd](https://pan.quark.cn/s/f6319d2212dd) | 无需 |
+
+> 四个年份共用同一个分享链接。下面是各年份的文件清单，下载前可以先核对期数和体积。
 
 | 年份 | 期数 | 体积 | 清单 |
 |:----:|:----:|:-----|:-----|
@@ -59,9 +59,11 @@
 
 ---
 
-## 02 · Science
+## Science
 
 美国科学促进会（AAAS）出版的顶级同行评议周刊，覆盖生命科学、物理、地球科学等全部前沿领域。
+
+**2018 — 2026 · 9 个年份 · 每年一整包**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:---------|:---------|:---------|:-------|
@@ -77,9 +79,11 @@
 
 ---
 
-## 03 · Bluey
+## Bluey
 
 改编自同名动画的儿童杂志，围绕蓝色牧牛犬 Bluey 一家的日常，用游戏、贴纸、涂色和小故事做亲子共读与英语启蒙。
+
+**2023 — 2026 · 4 个年份 · 每年一整包**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:---------|:---------|:---------|:-------|
@@ -105,19 +109,13 @@
 
 ```
 waikan-zazhi/
-├── index.html              在线站点（搜索 / 筛选 / 一键复制提取码）
-├── assets/
-│   ├── style.css           站点样式
-│   └── app.js              页面渲染与交互
-├── data/
-│   └── catalog.js          结构化数据：刊物 → 年份 → 网盘链接
-├── How it works/           How It Works 逐年文件清单
-│   ├── How It Works 2022
-│   ├── How It Works 2023
-│   ├── How It Works 2024
-│   ├── How It Works 2025
-│   └── 下载地址.md
-└── README.md
+├── README.md              全部资源索引（本文件）
+└── How it works/          How It Works 逐年文件清单
+    ├── How It Works 2022
+    ├── How It Works 2023
+    ├── How It Works 2024
+    ├── How It Works 2025
+    └── 下载地址.md
 ```
 
 ---
@@ -126,7 +124,7 @@ waikan-zazhi/
 
 | 日期 | 内容 |
 |:-----|:-----|
-| 2026-10-30 | 新增《Science》2018—2026 年度合集 9 份、《Bluey》2023—2026 年度合集 4 份；仓库改版为「数据 + 站点」结构 |
+| 2026-10-30 | 新增《Science》2018—2026 年度合集 9 份、《Bluey》2023—2026 年度合集 4 份；README 重排为「目录 + 分刊物年份表」 |
 | 2025-09-01 | 《How It Works》补充 Book of Amazing Vehicles Ed.13 2025 |
 
 ---
