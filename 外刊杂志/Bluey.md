@@ -2,9 +2,9 @@
 
 # Bluey
 
-**布鲁伊 · BBC Studios**
+**布鲁伊 · 澳大利亚 BBC Studios**
 
-[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md)
+[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Paint & Draw](Paint%20%26%20Draw.md) · [National Geographic Kids](National%20Geographic%20Kids.md)
 
 </div>
 

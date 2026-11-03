@@ -2,9 +2,9 @@
 
 # Science
 
-**科学 · AAAS**
+**科学 · 美国 AAAS**
 
-[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Bluey](Bluey.md)
+[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Bluey](Bluey.md) · [Paint & Draw](Paint%20%26%20Draw.md) · [National Geographic Kids](National%20Geographic%20Kids.md)
 
 </div>
 
