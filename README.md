@@ -9,7 +9,7 @@
 ![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-3-17171A?style=flat-square)
 ![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-17-17171A?style=flat-square)
 ![HIW PDF](https://img.shields.io/badge/HIW%20PDF-130-17171A?style=flat-square)
-![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.10.30-D9472F?style=flat-square)
+![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.03-D9472F?style=flat-square)
 
 </div>
 
@@ -19,9 +19,9 @@
 
 | # | 刊物 | 中文 | 类型 | 年份跨度 | 份数 | 内容 |
 |:-:|:-----|:-----|:-----|:---------|:----:|:-----|
-| 01 | [**How It Works**](How%20it%20works.md) | 知识图解 | 科普 | 2022 — 2025 | 4 | 130 个 PDF · 9.69 GB |
-| 02 | [**Science**](Science.md) | 科学 | 学术 | 2018 — 2026 | 9 | 每年一整包 |
-| 03 | [**Bluey**](Bluey.md) | 布鲁伊 | 儿童 | 2023 — 2026 | 4 | 每年一整包 |
+| 01 | [**How It Works**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/How%20it%20works.md) | 知识图解 | 科普 | 2022 — 2025 | 4 | 130 个 PDF · 9.69 GB |
+| 02 | [**Science**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Science.md) | 科学 | 学术 | 2018 — 2026 | 9 | 每年一整包 |
+| 03 | [**Bluey**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Bluey.md) | 布鲁伊 | 儿童 | 2023 — 2026 | 4 | 每年一整包 |
 
 共 3 种刊物、17 份年度合集。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
 
@@ -46,10 +46,24 @@
 
 ---
 
+## 仓库结构
+
+```
+waikan-zazhi/
+├── README.md              目录与使用说明（本文件）
+└── 外刊杂志/
+    ├── How it works.md    年份表 + 4 个年份的文件清单
+    ├── Science.md         年份表
+    └── Bluey.md           年份表
+```
+
+---
+
 ## 更新日志
 
 | 日期 | 内容 |
 |:-----|:-----|
+| 2026-11-03 | 刊物详情页统一收进 `外刊杂志/` 目录，README 只留目录与说明 |
 | 2026-10-30 | 新增《Science》2018—2026 年度合集 9 份、《Bluey》2023—2026 年度合集 4 份；刊物详情拆到各自 md，文件清单并入对应刊物页 |
 | 2025-09-01 | 《How It Works》补充 Book of Amazing Vehicles Ed.13 2025 |
 
