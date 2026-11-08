@@ -69,7 +69,7 @@ waikan-zazhi/
 
 | 日期 | 内容 |
 |:-----|:-----|
-| 2026-11-08 | 「TIME for Kids Family」即《Time for Kids》，统一名称后从计划收录移除 |
+| 2026-11-08 | 《Time for Kids》名称统一，从计划收录移除该条 |
 | 2026-11-08 | 新增《National Geographic Little Kids》、《Storytime》、《Time for Kids》，共 23 份年度合集 |
 | 2026-11-04 | 目录表「内容」列统一为「N 个 PDF · X GB」，数值按网盘实际目录树统计；《How It Works》去掉逐年文件清单，只保留年份表 |
 | 2026-11-03 | 新增《Paint & Draw》2016—2026 共 11 份、《National Geographic Kids》2017—2026 共 10 份；《How It Works》改为逐年独立分享（2009—2026，共 16 份） |
