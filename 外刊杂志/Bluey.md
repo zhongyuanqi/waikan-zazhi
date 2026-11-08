@@ -4,7 +4,7 @@
 
 **布鲁伊 · 澳大利亚 BBC Studios**
 
-[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Paint & Draw](Paint%20%26%20Draw.md) · [National Geographic Kids](National%20Geographic%20Kids.md)
+[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Paint & Draw](Paint%20%26%20Draw.md) · [National Geographic Kids](National%20Geographic%20Kids.md) · [National Geographic Little Kids](National%20Geographic%20Little%20Kids.md) · [Storytime](Storytime.md) · [Time for Kids](Time%20for%20Kids.md)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 改编自同名动画的儿童杂志，围绕蓝色牧牛犬 Bluey 一家的日常，用游戏、贴纸、涂色和小故事做亲子共读与英语启蒙。
 
-**2023 — 2026 · 4 个年份 · 每年一整包**
+**2023 — 2026 · 4 份合集 · 40 个 PDF · 1.11 GB**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:--------:|:--------:|:--------:|:-------|

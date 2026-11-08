@@ -4,7 +4,7 @@
 
 **绘画教程 · 英国 Future**
 
-[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Bluey](Bluey.md) · [National Geographic Kids](National%20Geographic%20Kids.md)
+[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Bluey](Bluey.md) · [National Geographic Kids](National%20Geographic%20Kids.md) · [National Geographic Little Kids](National%20Geographic%20Little%20Kids.md) · [Storytime](Storytime.md) · [Time for Kids](Time%20for%20Kids.md)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 英国 Future 出版的绘画教学月刊，主打丙烯、水彩、油画的分步示范：每期带一幅完整示范画，拆解配色、笔法与图层顺序，另附材料测评、艺术家访谈与作品点评，适合自学者照着练。
 
-**2016 — 2026 · 11 个年份 · 每年一整包**
+**2016 — 2026 · 11 份合集 · 91 个 PDF · 7.11 GB**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:--------:|:--------:|:--------:|:-------|

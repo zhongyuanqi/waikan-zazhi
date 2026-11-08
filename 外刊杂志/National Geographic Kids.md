@@ -4,7 +4,7 @@
 
 **国家地理少儿版 · 美国 National Geographic**
 
-[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Bluey](Bluey.md) · [Paint & Draw](Paint%20%26%20Draw.md)
+[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Bluey](Bluey.md) · [Paint & Draw](Paint%20%26%20Draw.md) · [National Geographic Little Kids](National%20Geographic%20Little%20Kids.md) · [Storytime](Storytime.md) · [Time for Kids](Time%20for%20Kids.md)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 《国家地理》少儿版月刊，面向 6—14 岁，用大图、动物与自然主题讲科学，附游戏、闯关问答与手作。图片质量与排版贴近成人版《国家地理》，难度按年龄分层，适合少儿英语与科学启蒙。
 
-**2017 — 2026 · 10 个年份 · 每年一整包**
+**2017 — 2026 · 10 份合集 · 234 个 PDF · 12.27 GB**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:--------:|:--------:|:--------:|:-------|

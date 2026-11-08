@@ -4,7 +4,7 @@
 
 **知识图解 · Immediate Media**
 
-[← 返回目录](../README.md) · [Science](Science.md) · [Bluey](Bluey.md) · [Paint & Draw](Paint%20%26%20Draw.md) · [National Geographic Kids](National%20Geographic%20Kids.md)
+[← 返回目录](../README.md) · [Science](Science.md) · [Bluey](Bluey.md) · [Paint & Draw](Paint%20%26%20Draw.md) · [National Geographic Kids](National%20Geographic%20Kids.md) · [National Geographic Little Kids](National%20Geographic%20Little%20Kids.md) · [Storytime](Storytime.md) · [Time for Kids](Time%20for%20Kids.md)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 英国 Immediate Media 出品的科普月刊，主打大幅剖面图与信息图，把科技、历史、人体、宇宙拆开讲透。除常规单期（Issue）外，还有大量主题专辑（Book of… / Understanding… 系列）。
 
-**2009 — 2026 · 16 份合集**
+**2009 — 2026 · 16 份合集 · 336 个 PDF · 20.93 GB**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:--------:|:--------:|:--------:|:-------|
@@ -34,7 +34,7 @@
 | **2009-2010** | [下载](https://pan.baidu.com/s/1ut19mlrPv7sWU2W8DXvrEA?pwd=u95d) | [下载](https://pan.quark.cn/s/ea57be740e72) | [下载](https://url38.ctfile.com/d/3404238-169180189-5b41c4?p=2727) | 百度 `u95d` · 城通 `2727` |
 
 > 每年单独一个分享，点对应年份的「下载」即可；城通提取码统一 `2727`。
-> 2009 与 2010 合在一包，2011 暂无单独合集。
+> 缺 2011 年，暂无单独合集。
 
 ---
 
