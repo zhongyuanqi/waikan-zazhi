@@ -12,17 +12,18 @@
 
 《时代》面向少儿的新闻读物，用短篇报道、图表和照片讲当期时事、科学与自然，按年级分版，常配词汇表与课堂练习，适合做非虚构阅读。
 
-**2021 — 2026 · 4 份合集 · 74 个 PDF · 0.51 GB**
+**2021 — 2026 · 6 份合集 · 83 个 PDF · 0.56 GB**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:--------:|:--------:|:--------:|:-------|
 | **2026** | [下载](https://pan.baidu.com/s/1Z9BVzsit99EzJ-Gp6yALOw?pwd=band) | [下载](https://pan.quark.cn/s/9560b710329f) | [下载](https://url38.ctfile.com/d/3404238-169212518-97906f?p=2727) | 百度 `band` · 城通 `2727` |
+| **2025** | [下载](https://pan.baidu.com/s/1RsdcDoKvzCxygmCzH5m1lg?pwd=zht6) | [下载](https://pan.quark.cn/s/5317ed087f0a) | [下载](https://url38.ctfile.com/d/3404238-169329439-3933de?p=2727) | 百度 `zht6` · 城通 `2727` |
+| **2024** | [下载](https://pan.baidu.com/s/1VATbEH1A_Z2wKdPDJ18KJQ?pwd=7v9s) | [下载](https://pan.quark.cn/s/5c8318270870) | [下载](https://url38.ctfile.com/d/3404238-169329438-867224?p=2727) | 百度 `7v9s` · 城通 `2727` |
 | **2023** | [下载](https://pan.baidu.com/s/1CiV-A8vugHTLKBOXpUD5Ww?pwd=z73t) | [下载](https://pan.quark.cn/s/6298b0b8a768) | [下载](https://url38.ctfile.com/d/3404238-169212783-0d3275?p=2727) | 百度 `z73t` · 城通 `2727` |
 | **2022** | [下载](https://pan.baidu.com/s/1e3rDH5JNZLrD5dqCSX7mZw?pwd=snrk) | [下载](https://pan.quark.cn/s/badf020d22a0) | [下载](https://url38.ctfile.com/d/3404238-169217775-4558b9?p=2727) | 百度 `snrk` · 城通 `2727` |
 | **2021** | [下载](https://pan.baidu.com/s/1OkvJbZjmBJaSJK6lrbsBNQ?pwd=dk67) | [下载](https://pan.quark.cn/s/044c1391a787) | [下载](https://url38.ctfile.com/d/3404238-169243808-bc7cb9?p=2727) | 百度 `dk67` · 城通 `2727` |
 
 > 每年单独一个分享，点对应年份的「下载」即可；城通提取码统一 `2727`。
-> 缺 2024、2025 年，暂无单独合集。
 
 ---
 
