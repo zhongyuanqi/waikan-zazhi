@@ -18,7 +18,7 @@
 |:----:|:--------:|:--------:|:--------:|:-------|
 | **2026** | [下载](https://pan.baidu.com/s/12PlUHLMzqEQuooxqVc5NSA?pwd=k7k4) | [下载](https://pan.quark.cn/s/b6a52bec4875) | [下载](https://url38.ctfile.com/d/3404238-169122150-419353?p=2727) | 百度 `k7k4` · 城通 `2727` |
 | **2025** | [下载](https://pan.baidu.com/s/1-rplyBYrTjJfb1BdwD0jWg?pwd=ekjr) | [下载](https://pan.quark.cn/s/078017b2f929) | [下载](https://url38.ctfile.com/d/3404238-169122039-ea1fa3?p=2727) | 百度 `ekjr` · 城通 `2727` |
-| **2024** | [下载](https://pan.baidu.com/s/1P9WFQq1gqiU8RMIal13Jw?pwd=8hij) | [下载](https://pan.quark.cn/s/917e2bf895d6) | [下载](https://url38.ctfile.com/d/3404238-169121860-f19164?p=2727) | 百度 `8hij` · 城通 `2727` |
+| **2024** | [下载](https://pan.baidu.com/s/1P9FVWFq1gqiU8RMIal13Jw?pwd=8hij) | [下载](https://pan.quark.cn/s/917e2bf895d6) | [下载](https://url38.ctfile.com/d/3404238-169121860-f19164?p=2727) | 百度 `8hij` · 城通 `2727` |
 | **2023** | [下载](https://pan.baidu.com/s/1_dPcUlstJRsDN1KNpl6ksw?pwd=y1al) | [下载](https://pan.quark.cn/s/3c76312eba77) | [下载](https://url38.ctfile.com/d/3404238-169121673-08ebb2?p=2727) | 百度 `y1al` · 城通 `2727` |
 | **2022** | [下载](https://pan.baidu.com/s/13XEk8jd7t3mHo_CiiVfPJA?pwd=3hup) | [下载](https://pan.quark.cn/s/8dc7fee3c882) | [下载](https://url38.ctfile.com/d/3404238-169121467-b1b534?p=2727) | 百度 `3hup` · 城通 `2727` |
 | **2021** | [下载](https://pan.baidu.com/s/11iP-IFXLvkHkkjEHbg4V-A?pwd=b1a2) | [下载](https://pan.quark.cn/s/8c540081b2d4) | [下载](https://url38.ctfile.com/d/3404238-169121298-f932b7?p=2727) | 百度 `b1a2` · 城通 `2727` |
