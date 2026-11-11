@@ -6,9 +6,9 @@
 
 按刊物、按年份整理。点刊物名进去，逐年取链。资源存放于百度网盘 / 夸克网盘 / 城通网盘，仓库只做索引，不存储文件。
 
-![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-8-17171A?style=flat-square)
-![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-75-17171A?style=flat-square)
-![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.09-D9472F?style=flat-square)
+![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-9-17171A?style=flat-square)
+![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-81-17171A?style=flat-square)
+![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.11-D9472F?style=flat-square)
 
 </div>
 
@@ -26,8 +26,9 @@
 | 06 | [**National Geographic Little Kids**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/National%20Geographic%20Little%20Kids.md) | 国家地理幼儿版 | 科普 | 2017 — 2026 | 10 | 101 个 PDF · 1.57 GB |
 | 07 | [**Storytime**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Storytime.md) | 故事时光 | 儿童 | 2018 — 2026 | 9 | 72 个 PDF · 2.05 GB |
 | 08 | [**Time for Kids**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Time%20for%20Kids.md) | 时代儿童周刊 | 时事 | 2021 — 2026 | 6 | 83 个 PDF · 0.56 GB |
+| 09 | [**Eco Kids Planet**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Eco%20Kids%20Planet.md) | 生态星球 | 科普 | 2021 — 2026 | 6 | 37 个 PDF · 0.70 GB |
 
-共 8 种刊物、75 份年度合集、1,385 个 PDF、62.44 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
+共 9 种刊物、81 份年度合集、1,422 个 PDF、63.14 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
 
 ---
 
@@ -36,14 +37,6 @@
 1. **先转存，再下载。** 打开分享链接后存到自己网盘，再从自己的网盘下载 —— 直接在分享页批量下载容易触发风控，链接也会更快失效。
 2. **提取码**：百度每一年不同，写在对应年份的「提取码」列；城通固定 `2727`；夸克不需要提取码。
 3. **链接失效**请到 [Issues](https://github.com/zhongyuanqi/waikan-zazhi/issues) 反馈，会尽快补链。
-
----
-
-## 计划收录
-
-| 刊物 | 中文 | 类型 |
-|:-----|:-----|:-----|
-| Eco Kids Planet | 生态星球 | 环保科普 · 7-12 岁 |
 
 ---
 
@@ -60,7 +53,8 @@ waikan-zazhi/
     ├── National Geographic Kids.md
     ├── National Geographic Little Kids.md
     ├── Storytime.md
-    └── Time for Kids.md
+    ├── Time for Kids.md
+    └── Eco Kids Planet.md
 ```
 
 ---
@@ -69,6 +63,7 @@ waikan-zazhi/
 
 | 日期 | 内容 |
 |:-----|:-----|
+| 2026-11-11 | 新增《Eco Kids Planet》，共 6 份年度合集 |
 | 2026-11-09 | 《Time for Kids》补齐 2 个年份（2024、2025） |
 | 2026-11-08 | 《Time for Kids》名称统一，从计划收录移除该条 |
 | 2026-11-08 | 新增《National Geographic Little Kids》、《Storytime》、《Time for Kids》，共 23 份年度合集 |
