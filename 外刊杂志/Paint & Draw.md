@@ -4,7 +4,7 @@
 
 **绘画教程 · 英国 Future**
 
-[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Bluey](Bluey.md) · [National Geographic Kids](National%20Geographic%20Kids.md) · [National Geographic Little Kids](National%20Geographic%20Little%20Kids.md) · [Storytime](Storytime.md) · [Time for Kids](Time%20for%20Kids.md)
+[← 返回目录](../README.md) · [How It Works](How%20it%20works.md) · [Science](Science.md) · [Bluey](Bluey.md) · [National Geographic Kids](National%20Geographic%20Kids.md) · [National Geographic Little Kids](National%20Geographic%20Little%20Kids.md) · [Storytime](Storytime.md) · [Time for Kids](Time%20for%20Kids.md) · [Eco Kids Planet](Eco%20Kids%20Planet.md)
 
 </div>
 
