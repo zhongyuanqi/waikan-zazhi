@@ -7,7 +7,7 @@
 按刊物、按年份整理。点刊物名进去，逐年取链。资源存放于百度网盘 / 夸克网盘 / 城通网盘，仓库只做索引，不存储文件。
 
 ![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-10-17171A?style=flat-square)
-![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-92-17171A?style=flat-square)
+![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-93-17171A?style=flat-square)
 ![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.12-D9472F?style=flat-square)
 
 </div>
@@ -27,9 +27,9 @@
 | 07 | [**Storytime**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Storytime.md) | 故事时光 | 儿童 | 2018 — 2026 | 9 | 72 个 PDF · 2.05 GB |
 | 08 | [**Time for Kids**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Time%20for%20Kids.md) | 时代儿童周刊 | 时事 | 2021 — 2026 | 6 | 83 个 PDF · 0.56 GB |
 | 09 | [**Eco Kids Planet**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Eco%20Kids%20Planet.md) | 生态星球 | 科普 | 2021 — 2026 | 6 | 37 个 PDF · 0.70 GB |
-| 10 | [**Guitar**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Guitar.md) | — | — | 2016 — 2026 | 11 | 80 个 PDF · 5.37 GB |
+| 10 | [**Guitar**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Guitar.md) | — | — | 2015 — 2026 | 12 | 83 个 PDF · 5.50 GB |
 
-共 10 种刊物、92 份年度合集、1,502 个 PDF、68.51 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
+共 10 种刊物、93 份年度合集、1,505 个 PDF、68.63 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
 
 ---
 
@@ -65,6 +65,7 @@ waikan-zazhi/
 
 | 日期 | 内容 |
 |:-----|:-----|
+| 2026-11-12 | 《Guitar》补齐 1 个年份（2015） |
 | 2026-11-12 | 《Guitar》补齐 2 个年份（2016、2017） |
 | 2026-11-12 | 《Guitar》补齐 1 个年份（2018） |
 | 2026-11-12 | 《Guitar》补齐 2 个年份（2019、2020） |
