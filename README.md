@@ -6,9 +6,9 @@
 
 按刊物、按年份整理。点刊物名进去，逐年取链。资源存放于百度网盘 / 夸克网盘 / 城通网盘，仓库只做索引，不存储文件。
 
-![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-10-17171A?style=flat-square)
-![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-93-17171A?style=flat-square)
-![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.12-D9472F?style=flat-square)
+![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-11-17171A?style=flat-square)
+![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-96-17171A?style=flat-square)
+![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.13-D9472F?style=flat-square)
 
 </div>
 
@@ -27,9 +27,10 @@
 | 07 | [**Storytime**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Storytime.md) | 故事时光 | 儿童 | 2018 — 2026 | 9 | 72 个 PDF · 2.05 GB |
 | 08 | [**Time for Kids**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Time%20for%20Kids.md) | 时代儿童周刊 | 时事 | 2021 — 2026 | 6 | 83 个 PDF · 0.56 GB |
 | 09 | [**Eco Kids Planet**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Eco%20Kids%20Planet.md) | 生态星球 | 科普 | 2021 — 2026 | 6 | 37 个 PDF · 0.70 GB |
-| 10 | [**Guitar**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Guitar.md) | — | — | 2015 — 2026 | 12 | 83 个 PDF · 5.50 GB |
+| 10 | [**Guitar**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Guitar.md) | — | — | 2014 — 2026 | 13 | 88 个 PDF · 5.74 GB |
+| 11 | [**Billboard**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Billboard.md) | — | — | 2025 — 2026 | 2 | 33 个 PDF · 2.65 GB |
 
-共 10 种刊物、93 份年度合集、1,505 个 PDF、68.63 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
+共 11 种刊物、96 份年度合集、1,543 个 PDF、71.53 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
 
 ---
 
@@ -56,7 +57,8 @@ waikan-zazhi/
     ├── Storytime.md
     ├── Time for Kids.md
     ├── Eco Kids Planet.md
-    └── Guitar.md
+    ├── Guitar.md
+    └── Billboard.md
 ```
 
 ---
@@ -65,6 +67,7 @@ waikan-zazhi/
 
 | 日期 | 内容 |
 |:-----|:-----|
+| 2026-11-13 | 新增《Billboard》，共 2 份年度合集；《Guitar》补齐 1 个年份（2014） |
 | 2026-11-12 | 《Guitar》补齐 1 个年份（2015）；《Guitar》补齐 2 个年份（2016、2017）；《Guitar》补齐 1 个年份（2018）；《Guitar》补齐 2 个年份（2019、2020）；《Guitar》补齐 2 个年份（2021、2022）；《Guitar》补齐 1 个年份（2023）；《Guitar》补齐 1 个年份（2024） |
 | 2026-11-11 | 《Guitar》补齐 1 个年份（2025）；新增《Guitar》，共 1 份年度合集；《Eco Kids Planet》补齐 6 个年份（2021、2022、2023、2024、2025、2026）；新增《Eco Kids Planet》，共 6 份年度合集 |
 | 2026-11-09 | 《Time for Kids》补齐 2 个年份（2024、2025） |
