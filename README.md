@@ -6,9 +6,9 @@
 
 按刊物、按年份整理。点刊物名进去，逐年取链。资源存放于百度网盘 / 夸克网盘 / 城通网盘，仓库只做索引，不存储文件。
 
-![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-12-17171A?style=flat-square)
-![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-117-17171A?style=flat-square)
-![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.19-D9472F?style=flat-square)
+![刊物](https://img.shields.io/badge/%E5%88%8A%E7%89%A9-13-17171A?style=flat-square)
+![年度合集](https://img.shields.io/badge/%E5%B9%B4%E5%BA%A6%E5%90%88%E9%9B%86-119-17171A?style=flat-square)
+![更新](https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-2026.11.25-D9472F?style=flat-square)
 
 </div>
 
@@ -30,8 +30,9 @@
 | 10 | [**Guitar**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Guitar.md) | — | — | 2014 — 2026 | 13 | 88 个 PDF · 5.74 GB |
 | 11 | [**Billboard**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/Billboard.md) | — | — | 2016 — 2026 | 11 | 89 个 PDF · 6.98 GB |
 | 12 | [**GQ**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/GQ.md) | — | — | 2021 — 2026 | 12 | 60 个 PDF · 5.90 GB |
+| 13 | [**BBC**](%E5%A4%96%E5%88%8A%E6%9D%82%E5%BF%97/BBC.md) | — | — | 2025 — 2026 | 2 | 18 个 PDF · 2.07 GB |
 
-共 12 种刊物、117 份年度合集、1,659 个 PDF、81.76 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
+共 13 种刊物、119 份年度合集、1,677 个 PDF、83.83 GB。每本刊物的年份表都按**从新到旧**排列，第一行就是最新。
 
 ---
 
@@ -60,7 +61,8 @@ waikan-zazhi/
     ├── Eco Kids Planet.md
     ├── Guitar.md
     ├── Billboard.md
-    └── GQ.md
+    ├── GQ.md
+    └── BBC.md
 ```
 
 ---
@@ -69,6 +71,7 @@ waikan-zazhi/
 
 | 日期 | 内容 |
 |:-----|:-----|
+| 2026-11-25 | 新增《BBC》，共 2 份年度合集 |
 | 2026-11-19 | 《GQ》补齐 2 个年份（2025、2026）；《GQ》补齐 3 个年份（2022、2025、2026）；《GQ》补齐 2 个年份（2022、2023）；《GQ》补齐 2 个年份（2021、2021） |
 | 2026-11-18 | 新增《GQ》，共 2 份年度合集；《GQ》补齐 1 个年份（2024） |
 | 2026-11-16 | 《Billboard》补齐 1 个年份（2020）；《Billboard》补齐 2 个年份（2016、2017）；《Billboard》补齐 2 个年份（2018、2019） |
