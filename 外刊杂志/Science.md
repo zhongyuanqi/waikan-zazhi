@@ -12,7 +12,7 @@
 
 美国科学促进会（AAAS）出版的顶级同行评议周刊，覆盖生命科学、物理、地球科学等全部前沿领域。
 
-**2018 — 2026 · 9 份合集 · 379 个 PDF · 14.97 GB**
+**2018 — 2026 · 9 份合集 · 428 个 PDF · 16.85 GB**
 
 | 年份 | 百度网盘 | 夸克网盘 | 城通网盘 | 提取码 |
 |:----:|:--------:|:--------:|:--------:|:-------|
@@ -22,7 +22,7 @@
 | **2023** | [下载](https://pan.baidu.com/s/1_dPcUlstJRsDN1KNpl6ksw?pwd=y1al) | [下载](https://pan.quark.cn/s/3c76312eba77) | [下载](https://url38.ctfile.com/d/3404238-169121673-08ebb2?p=2727) | 百度 `y1al` · 城通 `2727` |
 | **2022** | [下载](https://pan.baidu.com/s/13XEk8jd7t3mHo_CiiVfPJA?pwd=3hup) | [下载](https://pan.quark.cn/s/8dc7fee3c882) | [下载](https://url38.ctfile.com/d/3404238-169121467-b1b534?p=2727) | 百度 `3hup` · 城通 `2727` |
 | **2021** | [下载](https://pan.baidu.com/s/11iP-IFXLvkHkkjEHbg4V-A?pwd=b1a2) | [下载](https://pan.quark.cn/s/8c540081b2d4) | [下载](https://url38.ctfile.com/d/3404238-169121298-f932b7?p=2727) | 百度 `b1a2` · 城通 `2727` |
-| **2020** | [下载](https://pan.baidu.com/s/1i4EsGjAxi4-nokZQGOY0PQ?pwd=44z8) | [下载](https://pan.quark.cn/s/081bd114464c) | [下载](https://url38.ctfile.com/d/3404238-169121143-0f9c0c?p=2727) | 百度 `44z8` · 城通 `2727` |
+| **2020** | [下载](https://pan.baidu.com/s/1wuiLjl31sKLzGL5wndRMBA?pwd=8dqc) | [下载](https://pan.quark.cn/s/081bd114464c) | [下载](https://url38.ctfile.com/d/3404238-169121143-0f9c0c?p=2727) | 百度 `8dqc` · 城通 `2727` |
 | **2019** | [下载](https://pan.baidu.com/s/1xqZNShz8oupqA2u3ScUlDQ?pwd=fzw2) | [下载](https://pan.quark.cn/s/3ef1a7786b3e) | [下载](https://url38.ctfile.com/d/3404238-169121033-e58ddb?p=2727) | 百度 `fzw2` · 城通 `2727` |
 | **2018** | [下载](https://pan.baidu.com/s/1iFCea_LQDQSu9v4FV1gYlA?pwd=c8dg) | [下载](https://pan.quark.cn/s/1d2b0db9e34f) | [下载](https://url38.ctfile.com/d/3404238-169120928-7aabad?p=2727) | 百度 `c8dg` · 城通 `2727` |
 
